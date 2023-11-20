@@ -1,3 +1,8 @@
+# NIFTY Stock Selection : Project Overview
+* Developed a stock selection model to offer quantitative investors an innovative approach.  
+* Implemented model stacking using LSTM and XGBoost to transform back testing performance from losses to profits.  
+
+## Let's get started  
 Hello everyone, in this notebook, I will be using LSTM for stock selection, applying LSTM to panel data. After making predictions, I will employ model stacking by adding XGBoost into the mix. Finally, I will practically use the model to implement a simple strategy and backtest its performance. Due to the significant randomness in the stock market, the performance will not be as high as image classification accuracy, so please do not use it as an investment strategy.  
 
 ## Part 1: Data Preprocessing  
